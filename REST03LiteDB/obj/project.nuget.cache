@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "StanfqlYasmhd4OHgTx8VLFMGK63qNCIBGgebcls0KED7fI+NPGzHIj740VIx+8U2IQtTY57ReShleQxp6pTMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\source\\repos\\REST03LiteDB\\REST03LiteDB\\REST03LiteDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\litedb\\5.0.7\\litedb.5.0.7.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
